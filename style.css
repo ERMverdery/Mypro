@@ -1,1 +1,21 @@
+body {
+    font-family: sans-serif;
+    background-color:black;
+}
 
+b{
+    color: goldenrod;
+}
+
+h1{
+    color: lightseagreen;
+}
+
+p{
+    color: gainsboro;
+}
+
+b:hover{
+    color: yellow;
+    transition: 3s;
+}
